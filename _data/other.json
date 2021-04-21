@@ -13,6 +13,20 @@
       "contact": "08123656615",
       "description": "24*7 all over Bangalore",
       "lastVerified": -1
+    },
+    {
+      "uuid": "231fa148-f4fc-4df3-a32e-a4102d1dc215",
+      "name": "Kaveri Ambulance",
+      "contact": "09845471570",
+      "description": "24*7 all over bangalore",
+      "lastVerified": -1
+    },
+    {
+      "uuid": "a3ab2b91-fc64-4b26-9351-fac61e90ec2c",
+      "name": "Yashaswini Medical Service",
+      "contact": "09845083398",
+      "description": "24*7 Ambulance and oxygen supplies",
+      "lastVerified": -1
     }
   ]
 }
